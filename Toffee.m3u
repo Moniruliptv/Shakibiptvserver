@@ -23,10 +23,22 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Cricket ", T-Sports
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Cricket or Football  ", T-Sports
 
 http://97.74.103.44:8089/amrbd/T-SPORTS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Bangladeshi", R-tv
 
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Cricket or Football ", Ten Sports 
+
+http://97.74.103.44:8089/nimble_live/tensports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Cricket or Football ", Sky Sports
+
+http://97.74.103.44:8089/nimble_live/skycricket/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Cricket or Football ", G-TV
+
+http://97.74.103.44:8089/amrbd/GTV/playlist.m3u8
