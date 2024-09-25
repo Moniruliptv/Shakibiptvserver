@@ -18,3 +18,7 @@ https://sliv.drmlive.in/2011641/SonyAathSD/hdntl=exp=1727359838~acl=%2f*~id=1556
 #EXTINF:-1 tvg-logo="Logo Link" group-title="India ",enter10 bangla
 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Bangla Movie", Tofan movie
+
+https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
