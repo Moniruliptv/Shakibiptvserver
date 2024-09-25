@@ -1,1 +1,20 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Bangladeshi",  somoy tv
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Kolkata ", Zee bangla
+
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="kolkata ", zee cinema
+
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglacinema1.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="India ", sony art
+
+https://sliv.drmlive.in/2011641/SonyAathSD/hdntl=exp=1727359838~acl=%2f*~id=1556784483112233~data=hdntl~hmac=343017c59f2806a912ed2671d86e7e0b10533c8d428abcdfdf8702b0d506888c/master_664.m3u8?aka_me_session_id=AAAAAAAAAABea%2fVmAAAAALgR1FXxZq6ATTlMBBqohNjLve5nPxABD7Q2AZcjKlTJX3vXCvdPkNZ1CuPZVyFjo1CwAu4jHNag&aka_media_format_type=hls
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="India ",enter10 bangla
+
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
