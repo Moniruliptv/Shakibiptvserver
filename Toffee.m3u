@@ -105,3 +105,6 @@ http://97.74.103.44:8089/load/Star_Sports_1/chunks.m3u8?nimblesessionid=440710
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Series  ", Nick
 
 http://97.74.103.44:8089/load/nick_bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.112.150.230//Admin/main/images/tt13818368/poster/original//zDZowwb9GZGEctAu2PCpjiPQAMM.jpg" group title="Hindi movie ", Dubbing movie 
+http://103.112.150.230/Data/disk1/movies/bollywood/2024/Fighter%20(2024)/Fighter.mp4
