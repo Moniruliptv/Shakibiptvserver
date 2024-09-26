@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Bangladeshi",  somoy tv
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Bangladeshi",  Somoy TV
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Kolkata ", Zee bangla
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Kolkata ", Zee Bangla
 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="kolkata ", zee cinema
+#EXTINF:-1 tvg-logo="Logo Link" group-title="kolkata ", Zee Cinema
 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglacinema1.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="India ", sony art
+#EXTINF:-1 tvg-logo="Logo Link" group-title="India ", Sony Art
 
 https://sliv.drmlive.in/2011641/SonyAathSD/hdntl=exp=1727359838~acl=%2f*~id=1556784483112233~data=hdntl~hmac=343017c59f2806a912ed2671d86e7e0b10533c8d428abcdfdf8702b0d506888c/master_664.m3u8?aka_me_session_id=AAAAAAAAAABea%2fVmAAAAALgR1FXxZq6ATTlMBBqohNjLve5nPxABD7Q2AZcjKlTJX3vXCvdPkNZ1CuPZVyFjo1CwAu4jHNag&aka_media_format_type=hls
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="India ",enter10 bangla
+#EXTINF:-1 tvg-logo="Logo Link" group-title="India ",Enter10 Bangla
 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Bangla Movie", Tofan movie
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Bangla Movie", Tofan Movie
 
 https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
 
@@ -29,7 +29,7 @@ http://97.74.103.44:8089/amrbd/T-SPORTS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Bangladeshi", R-tv
 
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Cricket or Football ", Ten Sports 
 
@@ -68,7 +68,7 @@ https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Bangladeshi", Chanel I HD
 
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Kolkata ", Star Jalsha 
 
@@ -80,4 +80,28 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Bangladeshi", Channel 24 HD
 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Bangladeshi", N-TV
+
+http://97.74.103.44:8089/amrbd/NTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Bangladeshi", Ekattor TV HD
+
+http://97.74.103.44:8089/amrbd/INDPENDENT-TV/chunks.m3u8?nimblesessionid=440615
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Bangladeshi", Bangla TV
+
+http://97.74.103.44:8888/load/bangla_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Bangladeshi", MyTV 
+
+http://97.74.103.44:8089/load/my_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Cricket or Football ", Star Sports 
+
+http://97.74.103.44:8089/load/Star_Sports_1/chunks.m3u8?nimblesessionid=440710
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Series  ", Nick
+
+http://97.74.103.44:8089/load/nick_bangla/playlist.m3u8
